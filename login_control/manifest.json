@@ -1,6 +1,7 @@
 {
     "domain": "token_control",
     "name": "token_control",
+    "version": "0.1",
     "documentation": "https://github.com/matejdro/login_control",
     "requirements": [],
     "dependencies": [],
