@@ -1,4 +1,4 @@
 clear_refresh_tokens:
   fields:
     user_id:
-      description: User ID (String) of the user that should get refresh tokens cleared
+      description: 리프레시 토큰을 삭제할 사용자 ID를 선택해주세요. (사용자ID는 String값을 의미합니다.)
